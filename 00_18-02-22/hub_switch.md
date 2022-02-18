@@ -16,3 +16,7 @@
 
 ## PONTOS EM COMUM
 * Ambos operam na mesma rede.
+
+
+### PACKET TRACER
+Broadcast - envia para todo mundo
