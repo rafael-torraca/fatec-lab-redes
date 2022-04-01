@@ -11,4 +11,4 @@ WiFi - Padrão de projeto Wireless, normas, etc.
 - Interligam redes distintas;
 - Permitem configuração de tabela de rotas (Operam na camada 3 (OSI));
 - Tabela de Rotas;
-- Gateway ()
+- Gateway (É um "portão de entrada" que interliga duas redes distintas);
