@@ -12,3 +12,15 @@ WiFi - Padrão de projeto Wireless, normas, etc.
 - Permitem configuração de tabela de rotas (Operam na camada 3 (OSI));
 - Tabela de Rotas;
 - Gateway (É um "portão de entrada" que interliga duas redes distintas);
+
+1 - ROTEADOR
+
+Tabela de Rotas
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+enable
+
+show ip route
+
+configure term
+
