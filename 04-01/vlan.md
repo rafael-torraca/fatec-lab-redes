@@ -19,6 +19,9 @@ ROUTER -> VLAN1 E VLAN2
 
 
 ### CRIAR SUB INTERFACE
+
+configure terminal
+
 Router(config)# interface GigabitEthernet 0/0/0.1
 
 Router(config-subif)# encapsulation dot1Q ?
